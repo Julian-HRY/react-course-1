@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.title{
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.ListAll{
+  min-width: 400px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: blue;
+  padding: 2%;
+  margin-left: 2%;
+}
+
+.Container{
+  margin-bottom: 10px;
+  background-color: rgb(105, 105, 105);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.done{
+  text-decoration:line-through
+}
